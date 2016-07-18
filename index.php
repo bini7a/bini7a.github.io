@@ -5,5 +5,6 @@
 </head>
 <body>
 Hi! This is just a test website.
+<?php echo 'php test'; ?>
 </body>
 </html>
